@@ -1,7 +1,7 @@
 # cache
 .ipynb_checkpoints
 .vscode
-cookie.sysu
+cookies.sysu
 
 # data
-.csv
+data.csv
